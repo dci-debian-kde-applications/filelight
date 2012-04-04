@@ -14,8 +14,8 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.7.4),
  libbz2-dev, zlib1g-dev, libxtst-dev
 Standards-Version: 3.9.3
 Homepage: http://www.kde.org/
-Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kdeutils.git
-Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kdeutils.git
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/filelight.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/filelight.git
 
 Package: filelight
 Architecture: any
