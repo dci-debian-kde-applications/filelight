@@ -1,4 +1,4 @@
-Source: kdeutils
+Source: filelight
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
