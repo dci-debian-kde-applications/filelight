@@ -1,7 +1,5 @@
 filelight (4:4.8.2-0r0) UNRELEASED; urgency=low
 
-  TODO: update copyright file.
-
   * Initial packaging, split from old kdeutils source.
   * Bump Standards-Version to 3.9.3, no further changes.
 
