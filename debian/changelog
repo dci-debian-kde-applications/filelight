@@ -1,4 +1,4 @@
-filelight (4:4.8.2-0r0) UNRELEASED; urgency=low
+filelight (4:4.8.4-0r0) UNRELEASED; urgency=low
 
   * Initial packaging, split from old kdeutils source.
   * Bump Standards-Version to 3.9.3, no further changes.
