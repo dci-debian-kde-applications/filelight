@@ -4,19 +4,19 @@ Source: ftp://ftp.kde.org
 
 Files:  src/*
 Copyright: 2003-2004, Max Howell <max.howell@methylblue.com>
-	   2008-2009  Martin Sandsmark <sandsmark@samfundet.no>
-License: GPL-3+
+           2008-2009  Martin Sandsmark <sandsmark@samfundet.no>
+License: GPL-2+ or GPL-3+ with KDE e.V. exception
 
 Files:  doc/*
 Copyright: 2003-2004, Max Howell <max.howell@methylblue.com>
-	   2008-2009  Martin Sandsmark <sandsmark@samfundet.no>
-License: GFDL-1.2
+           2008-2009  Martin Sandsmark <sandsmark@samfundet.no>
+License: GFDL-NIV-1.2
 
 Files: debian/*
 Copyright: 2012, Eshat Cakar <info@eshat.de>
-License: GPL-3+
+License: GPL-2+
 
-License: GPL-3+
+License: GPL-2+ or GPL-3+ with KDE e.V. exception
  This program is free software; you can redistribute it and/or
  modify it under the terms of the GNU General Public License as
  published by the Free Software Foundation; either version 2 of
@@ -37,7 +37,7 @@ License: GPL-3+
  License version 2 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
 
-License: GFDL-1.2
+License: GFDL-NIV-1.2
  The purpose of this License is to make a manual, textbook, or other
  functional and useful document "free" in the sense of freedom: to
  assure everyone the effective freedom to copy and redistribute it,
@@ -45,7 +45,7 @@ License: GFDL-1.2
  Secondarily, this License preserves for the author and publisher a way
  to get credit for their work, while not being considered responsible
  for modifications made by others.
- . 
+ .
  This License is a kind of "copyleft", which means that derivative
  works of the document must themselves be free in the same sense.  It
  complements the GNU General Public License, which is a copyleft
