@@ -1,8 +1,8 @@
-filelight (4:4.8.4-0r0) UNRELEASED; urgency=low
+filelight (4:4.8.4-1) unstable; urgency=low
 
   [ Eshat Cakar ]
   * Initial packaging, split from old kdeutils source.
   * Bump Standards-Version to 3.9.3, no further changes.
   * Add watch file.
 
- -- Eshat Cakar <info@eshat.de>  Wed, 04 Apr 2012 14:31:42 +0200
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Tue, 19 Jun 2012 19:14:26 -0300
