@@ -1,5 +1,7 @@
 filelight (4:4.8.4-1) unstable; urgency=low
 
+  * Team upload.
+
   [ Eshat Cakar ]
   * Initial packaging, split from old kdeutils source.
   * Bump Standards-Version to 3.9.3, no further changes.
