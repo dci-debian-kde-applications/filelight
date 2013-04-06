@@ -1,3 +1,9 @@
+filelight (4:4.10.2-1) experimental; urgency=low
+
+  * New upstream.
+
+ -- Sune Vuorela <sune@debian.org>  Sat, 06 Apr 2013 10:18:45 +0000
+
 filelight (4:4.8.4-2) unstable; urgency=low
 
   * Team upload.
