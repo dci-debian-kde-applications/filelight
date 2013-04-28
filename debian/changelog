@@ -1,10 +1,10 @@
-filelight (4:4.10.2-2) UNRELEASED; urgency=low
+filelight (4:4.10.2-2) experimental; urgency=low
 
   [ Pino Toscano ]
   * Bump the kde-sc-dev-latest and kdelibs5-dev build dependencies to 4.10.
   * Update Uploaders.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 08 Apr 2013 12:34:25 +0200
+ -- Sune Vuorela <sune@debian.org>  Mon, 29 Apr 2013 01:16:15 +0200
 
 filelight (4:4.10.2-1) experimental; urgency=low
 
