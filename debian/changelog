@@ -1,9 +1,9 @@
-filelight (4:4.12.2-1) UNRELEASED; urgency=medium
+filelight (4:4.12.2-1) experimental; urgency=medium
 
   * New upstream release.
   * Bump kde-sc-dev-latest build dependency.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 19:06:52 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:31:38 +0100
 
 filelight (4:4.11.5-1) unstable; urgency=medium
 
