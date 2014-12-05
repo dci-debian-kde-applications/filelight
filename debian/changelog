@@ -1,8 +1,12 @@
-filelight (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+filelight (4:14.11.97-0ubuntu1~ubuntu15.04~ppa3) vivid; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release candidate
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 02 Dec 2014 10:08:23 -0800
+  [ Jonathan Riddell ]
+  * PPA build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Dec 2014 14:51:04 +0100
 
 filelight (4:14.11.95-0ubuntu2) vivid; urgency=medium
 
