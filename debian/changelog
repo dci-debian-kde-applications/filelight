@@ -1,9 +1,9 @@
-filelight (4:14.12.2-1~) UNRELEASED; urgency=medium
+filelight (4:14.12.2-1) experimental; urgency=medium
 
   * Prepare Debian release.
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 17 Feb 2015 09:59:29 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 17 Feb 2015 10:06:06 +0100
 
 filelight (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
