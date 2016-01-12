@@ -1,6 +1,10 @@
 filelight (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
+
+  [ Philip Muškovac ]
+  * Merge with debian git master
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:29:15 +0000
 
@@ -10,17 +14,20 @@ filelight (4:15.08.2-0ubuntu1) wily; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 11:50:43 +0100
 
-filelight (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
-
-  * Vivid backport
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 09:31:05 -0700
-
 filelight (4:15.08.1-0ubuntu1) wily; urgency=medium
 
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:07:46 +0100
+
+filelight (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.04.2).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Sep 2015 21:31:19 +0200
 
 filelight (4:15.08.0-0ubuntu1) wily; urgency=medium
 
