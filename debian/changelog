@@ -1,3 +1,11 @@
+filelight (4:15.12.3-1~1.gbp4d4da3) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @4d4da3e79881d647972a3b74fb2d598cd8faae40 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:16:09 +0200
+
 filelight (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
