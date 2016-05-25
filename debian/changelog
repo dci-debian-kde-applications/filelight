@@ -1,19 +1,14 @@
-filelight (4:16.04.1-1~1.gbpa9cd5d) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @a9cd5d95051d4162314a39b8d296d65229066ddb **
+filelight (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @a888061325854909b1d1320ad05e199f37116903 **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 22:15:20 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 00:36:45 +0200
 
 filelight (4:15.12.0-1) experimental; urgency=medium
 
