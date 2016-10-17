@@ -1,16 +1,12 @@
-filelight (4:16.08.2-1~1.gbp8a2cf8) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @8a2cf811395549004bcdbaead74d8a045e2bf470 **
+filelight (4:16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @e5f4af5c320bbf9e842cad5c6253503e5284145e **
-
-  * UNRELEASED
+  * New upstream release (16.08.2)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 22:15:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:05:59 +0200
 
 filelight (4:16.04.1-1) unstable; urgency=medium
 
