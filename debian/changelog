@@ -1,10 +1,8 @@
-filelight (4:16.08.3-1~1.gbp6a02e9) UNRELEASED; urgency=medium
+filelight (4:16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @6a02e923be97a2ccbdc2b8580ef931ecea4e731e **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 22:15:27 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 20:54:11 +0100
 
 filelight (4:16.08.2-1) unstable; urgency=medium
 
