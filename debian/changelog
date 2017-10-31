@@ -1,10 +1,11 @@
-filelight (4:17.08.0-1~) UNRELEASED; urgency=medium
+filelight (4:17.08.0-1~1) UNRELEASED; urgency=medium
 
   * New upstream release (17.08.0)
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
+  * Update uploaders list as requested by MIA team (Closes: #879290)
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 04 Sep 2017 16:48:34 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 17:58:27 +0100
 
 filelight (4:17.08.0-0neon) xenial; urgency=medium
 
